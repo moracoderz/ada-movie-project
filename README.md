@@ -1,8 +1,6 @@
 # ADA - Proyecto Final - React Movie App
 [Guía del TP](https://github.com/Ada-IT/bootcamp-frontend/tree/master/trabajos-practicos/tp-final-peliculas)
 
-# ADA - Proyecto Final - React Movie App
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
